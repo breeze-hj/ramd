@@ -15,4 +15,4 @@ distributed ram
 
     putIfAbsent & get
     
-  [示例代码]()
+  [示例代码](/src/test/java/eastwind/ramd/test/TestRamd.java)

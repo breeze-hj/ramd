@@ -12,7 +12,5 @@ distributed ram
     ramd保证，在网络通畅的情况下，只有一个节点读写目标数据，并可以从任意节点获得该数据。
     
 ### 例子
-
-    putIfAbsent & get
     
-  [示例代码](/src/test/java/eastwind/ramd/test/TestRamd.java)
+  [putIfAbsent & get](/src/test/java/eastwind/ramd/test/TestRamd.java)

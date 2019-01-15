@@ -13,6 +13,6 @@ distributed ram
     
 ### 例子
 
-#### putIfAbsent
-
+    putIfAbsent & get
     
+  [示例代码]()
